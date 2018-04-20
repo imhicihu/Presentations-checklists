@@ -5,8 +5,6 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 * Quick summary
-* Version
-
 
 ### How do I get set up? ###
 
@@ -16,6 +14,11 @@ This README would normally document whatever steps are necessary to get your app
 * Database configuration
 * How to run tests
 * Deployment instructions
+
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/issues) 
+
 
 ### Contribution guidelines ###
 
