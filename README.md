@@ -1,4 +1,4 @@
-# README # [![Bitbucket issues](https://img.shields.io/bitbucket/issues/atlassian/python-bitbucket.svg)]()
+# README # 
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
@@ -17,8 +17,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/issues) 
-
+* Check them on [here](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/issues)
+* [![Bitbucket issues](https://img.shields.io/bitbucket/issues/atlassian/python-bitbucket.svg)]()
 
 ### Contribution guidelines ###
 
