@@ -32,5 +32,9 @@ This README would normally document whatever steps are necessary to get your app
 * Repo owner or admin
 	 - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-- Contact is _enable_ on the [board]https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/addon/trello/trello-board of this repo.
+     - Contact is _enable_ on the [board]https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/addon/trello/trello-board of this repo.
 (You need a [Trello](https://trello.com/) account)
+
+### Legal ###
+
+* All trademarks are the property of their respective owners. 
