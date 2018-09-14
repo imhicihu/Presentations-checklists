@@ -1,6 +1,6 @@
-# README #
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Rationale #
 
 ### What is this repository for? ###
 
