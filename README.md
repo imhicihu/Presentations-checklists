@@ -15,8 +15,17 @@
 * Configuration
 * Dependencies
 * Database configuration
+	- There is no database, instead, this is a massive checklist that encompass our needs
 * How to run tests
 * Deployment instructions
+
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Conferences](https://bitbucket.org/imhicihu/conferences/src/)
+	 - [Proxy settings](https://bitbucket.org/imhicihu/proxy-settings-tutorials/src/master/)
+	 - [Proxy access](https://bitbucket.org/imhicihu/proxy-access/src/master/)
+	 - [QR Code](https://bitbucket.org/imhicihu/qr-code/src/)
 
 ### Issues ###
 
@@ -27,7 +36,7 @@
 * Repo owner or admin
 	 - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact is _enable_ on the [board]https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/addon/trello/trello-board of this repo.
+     - Contact is _enable_ on the [board]https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/addon/trello/trello-board) of this repo.
 (You need a [Trello](https://trello.com/) account)
 
 ### Legal ###
