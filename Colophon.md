@@ -10,9 +10,6 @@
      - 
 * Online tools
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
-     - 
-     - 
-     - 
      
 ## Legal ##
 
