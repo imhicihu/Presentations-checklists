@@ -24,3 +24,6 @@
  	- Si va a copiar la presentación en un pen-drive, insértelo en la unidad USB de su computadora. Luego haga clic en la opción del menú superior `Archivo`, luego `Guardar & Enviar`, luego en `Presentación para CD` y luego, en el panel derecho, clic en `Empaquetar para CD-ROM`. Clic en `Opciones` y a continuación `Incluir estos archivos`. Para asegurarse de que los archivos que están vinculados a la presentación estén incluidos en el paquete, active la casilla `Archivos vinculados`. Para asegurarse de incluir todas  fuentes TrueType de la presentación, seleccione la casilla de verificación `Fuentes TrueType incrustadas`. Clic en `Aceptar` para cerrar el cuadro de diálogo `Opciones`.
  	- Si está copiando la presentación en una carpeta de su computadora, haga clic en `Copiar a la carpeta`, escriba el nombre y la ubicación de la carpeta y, a continuación, haga clic en `
  	Aceptar`.
+    
+## Legal ##
+* All trademarks are the property of their respective owners.
