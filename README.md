@@ -15,7 +15,7 @@
 * Configuration
 * Dependencies
 * Database configuration
-	- There is no database, instead, this is a massive checklist that encompass our needs
+	- There is no database, instead, this is a _massive_ checklist that encompass our needs
 * How to run tests
 * Deployment instructions
 
