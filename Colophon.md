@@ -7,19 +7,21 @@
      
 * Software
      - PDF
-          - [doPDF](https://www.dopdf.com/): PDF printer (Windows environment)
-          - [BullZip](http://www.bullzip.com/products/pdf/info.php): PDF printer (Windows environment)
-          - [PDFCreator](https://www.pdfforge.org/pdfcreator): PDF printer (Windows environment)
-          - [Foxit PDF Printer](https://www.foxitsoftware.com/downloads/): PDF printer (Windows environment)
-          - [PDF-XChange Lite Printer](https://www.tracker-software.com/product/pdf-xchange-lite): PDF printer (Windows environment)
-          - [SodaPDF Printer]https://www.sodapdf.com/installation-guide/): PDF printer (mac environment)
-          - [Alchemy](https://dawnlabs.github.io/alchemy/): pdf merging (mac environment)
+          - [doPDF](https://www.dopdf.com/): impresora PDF (sistema operativo: Microsoft Windows)
+          - [BullZip](http://www.bullzip.com/products/pdf/info.php): impresora PDF (sistema operativo: Microsoft Windows)
+          - [PDFCreator](https://www.pdfforge.org/pdfcreator): impresora PDF (sistema operativo: Microsoft Windows)
+          - [Foxit PDF Printer](https://www.foxitsoftware.com/downloads/): impresora PDF (sistema operativo: Microsoft Windows)
+          - [PDF-XChange Lite Printer](https://www.tracker-software.com/product/pdf-xchange-lite): impresora PDF (sistema operativo: Microsoft Windows)
+          - [SodaPDF Printer](https://www.sodapdf.com/installation-guide/): impresora PDF (sistema operativo: MacOSX)
+          - [MacOSX PDF Printer](https://support.apple.com/es-lamr/guide/mac-help/mchlp1531/10.13/mac/10.13): impresora PDF (sistema operativo: MacOSX)
+          + ![macosx_built-in_printer](https://bitbucket.org/repo/z88jp6x/images/407128471-mac_pdf_printing.png)
+          - [Alchemy](https://dawnlabs.github.io/alchemy/): impresora PDF (sistema operativo: MacOSX)
      - Graphic converter
-          - [XnView MP](https://www.xnview.com/en/xnviewmp/): graphic converter (multi-format!) (Windows | Mac | Linux environments)
+          - [XnView MP](https://www.xnview.com/en/xnviewmp/): convertidor de gráficos (varios formatos). Puede ser ejecutado en estos sistemas operativos: Windows | Mac | Linux
      - Remote control
           - [RemoteUtilities](https://www.remoteutilities.com/)
           - [Chrome Remote Desktop](https://remotedesktop.google.com/)
-          - Windows Remote Desktop: buit-in inside Microsoft Windows operating system
+          - Windows Remote Desktop: incluído dentro del mismo sistema operativo Microsoft Windows
 
 * Online tools
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
