@@ -1,12 +1,15 @@
 ## Presentaciones audiovisuales
-* formatos permitidos (video): `.avi`; `.mp4`; `.wmv`; `.mov`; `.mkv`
-* formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
+* Formatos permitidos (video): `.avi`; `.mp4`; `.wmv`; `.mov`; `.mkv`
+* Formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
+* Las presentaciones _no_ deben estar protegidas bajo contraseña
+* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA)
 * Asegúrese que su presentación pueda ser visualizada con el software [VLC media player](http://www.videolan.org/)
 
 ## Presentaciones textuales
-* formatos permitidos: `.ppt`; `.pptx`; (Microsoft PowerPoint)
+* Formatos permitidos: `.ppt`; `.pptx`; (Microsoft PowerPoint)
                        `.pdf` (Adobe Acrobat)
                        `.doc`; `.docx` (Microsoft Word)
+* Las presentaciones _no_ deben estar protegidas bajo contraseña
 
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan ver la presentación en la mayoría de los equipos.
@@ -33,6 +36,7 @@
 * No suministramos adaptadores ni cargadores de baterías
 
 ### Salón de conferencia
+* No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
 * Las fotos a tomarse deben ser `sin flash`
 * El evento no puede ser registrado bajo ningún medio electrónico, salvo autorización escrita del/los autor(es)
