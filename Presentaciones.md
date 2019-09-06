@@ -48,5 +48,5 @@
 * El evento no puede ser registrado bajo ningún medio electrónico conocido, salvo autorización del/los autor(es)
 
 ## Legales ##
-* Todas las presentaciones serán eliminadas toda copia electrónica en discos rígidos y en la nube, una vez que haya concluído el evento/coloquio/disertación.
+* Todas las presentaciones serán eliminadas sea en disco(s) rígido(s) y en la nube, una vez que haya concluído el evento/coloquio/disertación.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
