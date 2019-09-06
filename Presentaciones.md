@@ -21,6 +21,7 @@
     - `.pdf` (Adobe Acrobat)
     - `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
+* Las fuentes en idiomas no-occidentales (léase cirílico, japonesas, chinas, vietnamitas, etc.) deben suministrarse y estar en formato [truetype](https://es.wikipedia.org/wiki/TrueType)
 * Genere un archivo `pdf` de su presentación. Asegúrese que el mismo respeta el formato, colores, tipografías, diseño, etc. dados; y pueda ser leído correctamente por un [lector de archivos pdf](https://acrobat.adobe.com/la/es/acrobat/pdf-reader.html).
 * Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. 
 * Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
@@ -64,11 +65,15 @@
 * Las fotos deben ser `sin flash`
 * El evento _no_ puede ser registrado bajo ningún medio electrónico conocido, salvo autorización del/los autor(es)
 
+### Identidad visual
+* Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
+* Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.jpg)
+
 ### Misceláneas
 * [Aplicaciones móviles](https://turismo.buenosaires.gob.ar/es/article/aplicaciones-para-m%C3%B3viles) relacionadas con movilidad, turismo, planificación específicos de la ciudad de Buenos Aires.
 * [Datos históricos del clima de la ciudad de Buenos Aires](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Probabilidad de precipitaciones en la ciudad de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?p=64793)
 
-## Legales ##
-* Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluído el evento/coloquio/disertación, más aun, al final de cada una de las sesiones.
+### Legales ###
+* Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluído el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
