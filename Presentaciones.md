@@ -11,8 +11,8 @@
                        `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
 * Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
-  - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
-  - copie su presentación (sea audiovisual o textual). Si fuera una presentación PowerPoint, acompáñela con una versión en formato PDF. 
+    - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
+    - copie su presentación (sea audiovisual o textual). Si fuera una presentación PowerPoint, acompáñela con una versión en formato PDF. 
 
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan ver la presentación en la mayoría de los equipos.
