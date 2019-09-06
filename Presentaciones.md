@@ -2,19 +2,20 @@
 * Formatos permitidos (video): `.avi`; `.mp4`; `.wmv`; `.mov`; `.mkv`
 * Formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
-* Asegúrese que su presentación pueda ser visualizada con el software [VLC media player](http://www.videolan.org/)
 * Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
-    - copie su presentación (sea audiovisual o textual). Verifique _nuevamente_ que puede ser leído por el [VLC media player](http://www.videolan.org/)
+    - una vez formateado, copie su presentación en el mismo. Verifique _nuevamente_ que pueda ser reconocido y leído por: 
+      - el [reproductor de medios VLC](http://www.videolan.org/)
 
 ## Presentaciones textuales
 * Formatos permitidos: `.ppt`; `.pptx`; (Microsoft PowerPoint)
                        `.pdf` (Adobe Acrobat)
                        `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
+* Genere un archivo pdf de su presentación. Asegúrese que el mismo respeta el formato, colores, tipografías, diseño, etc. dados; y pueda ser leído correctamente por un [lector de archivos pdf](https://acrobat.adobe.com/la/es/acrobat/pdf-reader.html).
 * Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
-    - copie su presentación (sea audiovisual o textual). Si fuera una presentación PowerPoint, acompáñela con una versión en formato PDF. 
+    - una vez formateado, copie su presentación en el mismo. Si fuera una presentación textual, acompáñela con el archivo PDF previamente generado (condición _sine qua non_). 
 
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan ver la presentación en la mayoría de los equipos.
@@ -52,6 +53,9 @@
 * No se permite el ingreso de comidas ni bebidas al recinto
 * Las fotos deben ser `sin flash`
 * El evento no puede ser registrado bajo ningún medio electrónico conocido, salvo autorización del/los autor(es)
+
+### Misceláneas
+* 
 
 ## Legales ##
 * Todas las presentaciones serán eliminadas sea en disco(s) rígido(s) y en la nube, una vez que haya concluído el evento/coloquio/disertación.
