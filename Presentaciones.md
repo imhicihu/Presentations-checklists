@@ -62,8 +62,8 @@
 ### Salón de conferencias
 * No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
-* Las fotos deben ser `sin flash`
 * El evento _no_ puede ser registrado bajo ningún medio electrónico conocido, salvo autorización del/los autor(es)
+* Si le es permitido tomar fotos, éstas deben ser `sin flash`
 
 ### Identidad visual
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
