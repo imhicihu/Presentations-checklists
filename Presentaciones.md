@@ -10,7 +10,8 @@
     - `.wav`
     - `.wma`
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
-* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. 
+* Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/)
 
@@ -21,7 +22,8 @@
     - `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
 * Genere un archivo `pdf` de su presentación. Asegúrese que el mismo respeta el formato, colores, tipografías, diseño, etc. dados; y pueda ser leído correctamente por un [lector de archivos pdf](https://acrobat.adobe.com/la/es/acrobat/pdf-reader.html).
-* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. 
+* Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Si fuera una presentación textual, acompáñela con el archivo PDF previamente generado (condición _sine qua non_). 
 
