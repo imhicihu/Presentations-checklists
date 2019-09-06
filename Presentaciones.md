@@ -3,7 +3,7 @@
 * Formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
 * Asegúrese que su presentación pueda ser visualizada con el software [VLC media player](http://www.videolan.org/)
-* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - copie su presentación (sea audiovisual o textual). Verifique _nuevamente_ que puede ser leído por el [VLC media player](http://www.videolan.org/)
 
@@ -12,7 +12,7 @@
                        `.pdf` (Adobe Acrobat)
                        `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
-* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+* Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - copie su presentación (sea audiovisual o textual). Si fuera una presentación PowerPoint, acompáñela con una versión en formato PDF. 
 
