@@ -2,14 +2,17 @@
 * Formatos permitidos (video): `.avi`; `.mp4`; `.wmv`; `.mov`; `.mkv`
 * Formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
-* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA)
 * Asegúrese que su presentación pueda ser visualizada con el software [VLC media player](http://www.videolan.org/)
+* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución
 
 ## Presentaciones textuales
 * Formatos permitidos: `.ppt`; `.pptx`; (Microsoft PowerPoint)
                        `.pdf` (Adobe Acrobat)
                        `.doc`; `.docx` (Microsoft Word)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
+* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+  - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
+  - copie su presentación (sea audiovisual o textual). Si fuera una presentación PowerPoint, acompáñela con una versión en formato PDF. 
 
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan ver la presentación en la mayoría de los equipos.
@@ -29,17 +32,18 @@
  	  - Si está copiando la presentación en una carpeta de su computadora, haga clic en `Copiar a la carpeta`, escriba el nombre y la ubicación de la carpeta y, a continuación, haga clic en `Aceptar`.
 
 ### Conexión inalámbrica (Wifi)
-* Estado de la conexión: regular a lenta
+* Estado actual de la conexión: regular
 * Nuestro ancho de banda es limitado
 
 ### Conexión eléctrica
 * No suministramos adaptadores ni cargadores de baterías
+* Cargue completamente la batería de su computadora portátil
 
 ### Salón de conferencia
 * No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
-* Las fotos a tomarse deben ser `sin flash`
-* El evento no puede ser registrado bajo ningún medio electrónico, salvo autorización escrita del/los autor(es)
+* Las fotos deben ser `sin flash`
+* El evento no puede ser registrado bajo ningún medio electrónico conocido, salvo autorización escrita del/los autor(es)
 
 ## Legal ##
 * All trademarks are the property of their respective owners.
