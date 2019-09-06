@@ -3,7 +3,9 @@
 * Formatos permitidos (audio): `.mp3`; `.wav`; `.wma`
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
 * Asegúrese que su presentación pueda ser visualizada con el software [VLC media player](http://www.videolan.org/)
-* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución
+* Las presentaciones deben ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. Si la presentación fuera entregada _in situ_ el día de la exposición, siga estos pasos: 
+    - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
+    - copie su presentación (sea audiovisual o textual). Verifique _nuevamente_ que puede ser leído por el VLC media player](http://www.videolan.org/)
 
 ## Presentaciones textuales
 * Formatos permitidos: `.ppt`; `.pptx`; (Microsoft PowerPoint)
@@ -39,11 +41,12 @@
 * No suministramos adaptadores ni cargadores de baterías
 * Cargue completamente la batería de su computadora portátil
 
-### Salón de conferencia
+### Salón de conferencias
 * No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
 * Las fotos deben ser `sin flash`
-* El evento no puede ser registrado bajo ningún medio electrónico conocido, salvo autorización escrita del/los autor(es)
+* El evento no puede ser registrado bajo ningún medio electrónico conocido, salvo autorización del/los autor(es)
 
-## Legal ##
-* All trademarks are the property of their respective owners.
+## Legales ##
+* Todas las presentaciones serán eliminadas toda copia electrónica en discos rígidos y en la nube, una vez que haya concluído el evento/coloquio/disertación.
+* Todas las marcas registradas son propiedad de sus respectivos propietarios.
