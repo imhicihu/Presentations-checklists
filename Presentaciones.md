@@ -55,6 +55,9 @@
 * Estado actual de la conexión: `regular`
 * Nuestro ancho de banda es limitado
 
+## Horarios
+* Para aquellos expositores remotos, la [hora oficial de la Argentina](https://es.wikipedia.org/wiki/Hora_oficial_argentina) es `UTC−03:00`.
+
 ### Conexión eléctrica
 * No suministramos adaptadores ni cargadores de baterías
 * Cargue completamente la batería de su computadora portátil
