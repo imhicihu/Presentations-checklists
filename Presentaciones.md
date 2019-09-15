@@ -57,12 +57,16 @@
  	      - Si va a copiar la presentación en un pen-drive, insértelo en su unidad USB de su computadora. Luego haga clic en la opción del menú superior `Archivo`, luego `Guardar & Enviar`, luego en `Presentación para CD` y luego, en el panel derecho, clic en `Empaquetar para CD-ROM`. Clic en `Opciones` y a continuación `Incluir estos archivos`. Para asegurarse de que los archivos que están vinculados a la presentación estén incluídos en el paquete, active la casilla `Archivos vinculados`. Para asegurarse de incluir todas las [fuentes TrueType](https://es.wikipedia.org/wiki/TrueType) de la presentación, seleccione la casilla de verificación `Fuentes TrueType incrustadas`. Clic en `Aceptar` para cerrar el cuadro de diálogo `Opciones`.
  	      - Si está copiando la presentación en una carpeta de su computadora, haga clic en `Copiar a la carpeta`, escriba el nombre y la ubicación de la carpeta y, a continuación, haga clic en `Aceptar`.
           - Imprima su presentación en formato PDF. Asegúrese que el archivo generado respete el formato, colores, tipografías, diseño, etc. dados; y pueda ser reconocido y leído por un [lector de archivos pdf](https://acrobat.adobe.com/la/es/acrobat/pdf-reader.html).
+  * Tutoriales
+    - Pueden visualizarse aquí:
+        - https://www.youtube.com/watch?v=Tr-gdf-6gxw
+        - https://www.youtube.com/watch?v=TAswiUZV_6c
 
 ### Conexión inalámbrica (Wifi)
 * Estado actual de la conexión: `regular`
 * Nuestro ancho de banda es limitado
 
-## Horarios
+### Horarios
 * Para aquellos expositores remotos, la [hora oficial de la Argentina](https://es.wikipedia.org/wiki/Hora_oficial_argentina) es `UTC−03:00`.
 
 ### Conexión eléctrica
