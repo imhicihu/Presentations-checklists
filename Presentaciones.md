@@ -26,8 +26,15 @@
 * Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/0BzEQFvceWPQvOTJrYmdVWjRsSjA) de la institución. 
 * Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
-    - una vez formateado, copie su presentación en el mismo. Acompáñela con el archivo PDF previamente generado (condición _sine qua non_). 
+    - una vez formateado, copie su presentación en el mismo. Acompáñela con el archivo PDF previamente generado (condición _sine qua non_).
+* El nombre de los archivos de las presentaciones deben seguir esta lógica:`_apellido_del_primer_autor.pptx`; `apellido_del_primer_autor.pdf`; `apellido_del_autor.mp4`, etc.
 
+## Presentaciones remotas
+* Aquellos autores que hagan su presentación remota deben enviar la misma registrada en formato de video (vía [WeTransfer](http://wetransfer.com/)). Algunos tutoriales pueden encontrarse aquí:
+    - https://www.youtube.com/watch?v=iN3Fctmbr-4
+    - https://www.youtube.com/watch?v=Yi2xJRXQiPM
+    - https://www.youtube.com/watch?v=oGXYPZlKqiQ
+    
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan visualizar la presentación en la mayoría de los equipos.
   * MacOS: 
