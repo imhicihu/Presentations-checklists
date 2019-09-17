@@ -30,7 +30,7 @@
 * El nombre de los archivos de las presentaciones deben seguir esta lógica:`_apellido_del_primer_autor.pptx`; `apellido_del_primer_autor.pdf`; `apellido_del_autor.mp4`, etc.
 
 ## Presentaciones remotas
-* Aquellos autores que hagan su presentación remota sea vía Skype o Zoom.us deben agregar el correo electrónico que se le suministrará como contacto. Como plan b, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrado en formato de video. Algunos tutoriales al respecto pueden encontrarse aquí:
+* Aquellos autores que hagan su presentación remota sea vía Skype o Zoom.us deben agregar el correo electrónico que se le suministrará como contacto. Como plan b, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video. Algunos tutoriales al respecto pueden encontrarse aquí:
     - https://www.youtube.com/watch?v=iN3Fctmbr-4
     - https://www.youtube.com/watch?v=Yi2xJRXQiPM
     - https://www.youtube.com/watch?v=oGXYPZlKqiQ
