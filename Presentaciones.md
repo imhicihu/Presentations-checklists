@@ -27,10 +27,13 @@
 * Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Acompáñela con el archivo `PDF` previamente generado (condición _sine qua non_).
-* El nombre de los archivos de las presentaciones deben seguir esta lógica:`_apellido_del_primer_autor.pptx`; `apellido_del_primer_autor.pdf`; `apellido_del_autor.mp4`, etc.
+* El nombre de los archivos de las presentaciones deben seguir esta lógica:
+    - `_apellido_del_primer_autor.pptx`
+    - `apellido_del_primer_autor.pdf`
+    - `apellido_del_autor.mp4`, etc.
 
 ## Presentaciones remotas
-* Aquellos autores que hagan su presentación remota sea vía Skype o Zoom.us deben agregar el correo electrónico que se le suministrará como contacto. Como plan b, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video. Algunos tutoriales al respecto pueden encontrarse aquí:
+* Aquellos autores que hagan su presentación remota sea vía Skype o Zoom.us deben agregar el correo electrónico que se le suministrará como contacto. Como _plan B_, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video. Algunos tutoriales al respecto pueden encontrarse aquí:
     - https://www.youtube.com/watch?v=iN3Fctmbr-4
     - https://www.youtube.com/watch?v=Yi2xJRXQiPM
     - https://www.youtube.com/watch?v=oGXYPZlKqiQ
