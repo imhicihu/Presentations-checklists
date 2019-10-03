@@ -86,7 +86,7 @@
 * No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
 * El evento _no_ puede ser registrado bajo ningún medio electrónico conocido o por conocer, salvo autorización del/los autor(es)
-* Si le es permitido tomar fotos, éstas deben ser `sin flash`. En el caso de registro en video, la institución no proveerá ningún dispositivo, sea de apoyo (léase trípode, etc.) o electrónico (cámara fotográfica, videocámara, etc.)
+* Si le es permitido tomar fotos, éstas deben ser `sin flash`. En el caso de registro en video, la institución no proveerá ningún dispositivo, sea de apoyo (léase trípode, etc.) o electrónico (cámara fotográfica, videocámara, etc.) o energético (baterías, etc.)
 
 ### Asistentes
 * Cargue la(s) batería(s) de su notebook, netbook o teléfono móvil
