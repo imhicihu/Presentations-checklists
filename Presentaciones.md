@@ -88,6 +88,11 @@
 * El evento _no_ puede ser registrado bajo ningún medio electrónico conocido o por conocer, salvo autorización del/los autor(es)
 * Si le es permitido tomar fotos, éstas deben ser `sin flash`. En el caso de registro en video, la institución no proveerá ningún dispositivo, sea de apoyo (léase trípode, etc.) o electrónico (cámara fotográfica, videocámara, etc.)
 
+### Asistentes
+* Cargue la(s) batería(s) de su notebook, netbook o teléfono móvil
+* Deshabilite las notificaciones sonoras de sus dispositivos
+* Deshabilite compartir carpetas desde su entorno operativo (léase sistema operativo)
+
 ### Identidad visual
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
 - ![with_transparency.png](https://bitbucket.org/repo/z88jp6x/images/1534054304-transparency.png)
