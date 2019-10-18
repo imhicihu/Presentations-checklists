@@ -15,7 +15,7 @@
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/)
 
-## Presentaciones textuales
+## Presentaciones gráficas
 * Formatos permitidos: 
     - `.ppt`; `.pptx`; (Microsoft PowerPoint®)
     - `.pdf` (Adobe Acrobat®)
@@ -46,7 +46,7 @@
     
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan visualizar la presentación en la mayoría de los equipos.
-  * Apple MacOS: 
+  * Apple MacOSX®: 
     - En [sistemas operativos MacOSX](https://es.wikipedia.org/wiki/MacOS#Versiones), de manera predeterminada no es necesario ningún paso extra. Por lo tanto, si inserta un sonido, una imagen o un vídeo, se incluirá una copia de estos archivos multimedia en el mismo.
   * Microsoft Windows®:
     - Microsoft Office® online
@@ -90,8 +90,9 @@
 
 ### Asistentes
 * Cargue la(s) batería(s) de su notebook, netbook o teléfono móvil
-* Deshabilite las notificaciones sonoras de sus dispositivos
-* Deshabilite compartir carpetas desde su entorno operativo (léase sistema operativo)
+* Deshabilite las notificaciones sonoras de sus dispositivos móviles
+* Deshabilite las notificaciones de su sistema operativo
+* Deshabilite `Compartir carpetas` desde su sistema operativo
 
 ### Identidad visual
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
