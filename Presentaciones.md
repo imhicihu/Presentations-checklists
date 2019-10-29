@@ -94,7 +94,7 @@
 * Deshabilite las notificaciones de su sistema operativo
 * Deshabilite `Compartir carpetas` desde su sistema operativo
 
-### Identidad visual
+### [Identidad visual](https://bitbucket.org/imhicihu/branding/downloads/)
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
 - ![with_transparency.png](https://bitbucket.org/repo/z88jp6x/images/1534054304-transparency.png)
 * Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.jpg)
