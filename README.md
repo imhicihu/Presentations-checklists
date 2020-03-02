@@ -8,6 +8,7 @@
 
 * Quick summary
 	- A kind of _checklist_ when we create a repository (firstly in Bitbucket, then migrated to GitHub)
+	- ![presentación.jpeg](https://bitbucket.org/repo/z88jp6x/images/4240775973-IMG_0114.JPG)
 
 ### How do I get set up? ###
 
