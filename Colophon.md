@@ -22,6 +22,8 @@
           - [RemoteUtilities](https://www.remoteutilities.com/)
           - [Chrome Remote Desktop](https://remotedesktop.google.com/)
           - Windows Remote Desktop: incluído dentro del mismo sistema operativo Microsoft Windows
+     - Notifications
+          - [Muzzle](https://muzzleapp.com/): disable notifications on MacOSX platform
 
 * Online tools
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
