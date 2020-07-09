@@ -34,7 +34,6 @@
 * Run Mozilla Firefox® with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox® as `Run as Administrator` if your operating system is Microsoft Windows®.
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
-* Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Defragment your hard disk (where your Mozilla Firefox® or Google Chrome® is installed).
 * Verify that your hard disk (where your Mozilla Firefox® or Google Chrome® is installed) got -at least- 10 GB of free space available.
 * Update your Adobe Flash player® to the latest version. (Check our [`guidelines.md`](https://bitbucket.org/imhicihu/streaming/src/master/Guidelines.md))
@@ -52,6 +51,7 @@
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Disable (temporarily) [Airplay](https://discussions.apple.com/thread/7409028)® or [Chromecast](https://www.lifewire.com/how-to-turn-off-chromecast-4801906)®.
 * Disable any screensaver.
+* Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 
 ### Streaming
 * Install your streaming software
