@@ -27,6 +27,7 @@
 
 * Online tools
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
+     - [Time scheduler](https://time.is/es/): check/verify official time of host country
      
 ## Legal ##
 
