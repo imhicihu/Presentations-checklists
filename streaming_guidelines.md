@@ -6,7 +6,7 @@
 ### Schedule
 * Verify your [date and time](https://www.timeanddate.com/) in your computer is correct
 * Verify your [time-zone](https://www.timeanddate.com/time/map/)
-* Meet and fit your schedule _against_ to the official time of the event
+* Meet and fit your schedule _against_ to the [official time](https://time.is/es/) of the event
 
 ### Hardware
 * Check your [keyboard](https://www.onlinemictest.com/keyboard-test/) status
