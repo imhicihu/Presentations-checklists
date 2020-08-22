@@ -7,18 +7,28 @@
 ### What is this repository for? ###
 
 * Quick summary
-	- A kind of _checklist_ when we create a repository (firstly in Bitbucket, then migrated to GitHub)
-	- ![presentaciÃ³n.jpeg](https://bitbucket.org/repo/z88jp6x/images/4240775973-IMG_0114.JPG)
+	- A kind of _checklist_ when we create a webinar, meeting or colloquium. This is a common effort between parties: different languages, operating systems, countries or time zones, _et alia_
+	- ![presentación.jpeg](https://bitbucket.org/repo/z88jp6x/images/4240775973-IMG_0114.JPG)
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
+* Summary of set up & configuration
+	- Verify our:
+		* [Speakers](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/speakers.md)
+		* [Ponentes](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/ponentes.md)
+		* [Colophon](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Colophon.md)
+		* [Procedures](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Procedures.md)
+		* [Presentaciones](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Presentaciones.md)
+
 * Dependencies
+	- Check our [colophon](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Colophon.md)
 * Database configuration
 	- There is no database, instead, this is a _massive_ checklist that encompass our needs
-* How to run tests
 * Deployment instructions
+	- Verify and test our [streaming guidelines](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/streaming_guidelines.md)
+	- Check our [file transfers](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/file_transfers.md)
+	- Check our [colophon](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Colophon.md)
+	- Check our [Ipad](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/src/master/Ipad_stuff.md) section
 
 ### Related repositories ###
 
