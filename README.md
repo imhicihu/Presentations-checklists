@@ -8,7 +8,7 @@
 
 * Quick summary
 	- A kind of _checklist_ when we create a webinar, meeting or colloquium. This is a common effort between parties: different languages, operating systems, countries or time zones, _et alia_
-	- ![presentación.jpeg](https://bitbucket.org/repo/z88jp6x/images/4240775973-IMG_0114.JPG)
+ ![presentación.jpeg](https://bitbucket.org/repo/z88jp6x/images/1535152636-4240775973-IMG_0114.jpg)
 
 ### How do I get set up? ###
 
