@@ -29,6 +29,7 @@
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
      - [Time scheduler](https://time.is/es/): check/verify official time of host country
      - [World Time zones](https://everytimezone.com/)
+     - [Time.io](https://timee.io/)
      - [File Pizza](https://file.pizza/): file sharing over peer-to-peer protocol
      
 ## Legal ##
