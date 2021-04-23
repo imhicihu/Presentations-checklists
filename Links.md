@@ -2,6 +2,7 @@
 
 ### Presentations
 * [Slides](https://slides.com/)
+* [OBS settings and handling](https://github.com/obsproject/obs-studio/wiki/OBS-Studio-Quickstart)
 
 ### Language
 * [International Accent Marks and Diacriticals](http://www.starr.net/is/type/htmlcodes.html): best practice as possible between Google indexing, page rendering, _etc_.
