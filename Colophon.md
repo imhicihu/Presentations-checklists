@@ -30,6 +30,7 @@
           - [Time scheduler](https://time.is/es/): check/verify official time of host country
           - [World Time zones](https://everytimezone.com/)
           - [Time.io](https://timee.io/)
+          - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
      - File sharing:
           - [File Pizza](https://file.pizza/): file sharing over peer-to-peer protocol
      - Calendar sharing:
