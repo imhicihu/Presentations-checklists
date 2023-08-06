@@ -1,4 +1,4 @@
-## Online services
+### Online services
 - [FileHosting](https://www.filehosting.org/): no sign up required, no size limits, unlimited uploads, unlimited downloads. Digital assets will be deleted after no downloads are made it after 20 days of the last download
 - [Box](https://www.box.com/home): free tier, file transfer up to 250 MB with a free account, no software to install
 - [Firefox Send](https://send.firefox.com/): file transfer up to 1Gb, automatically-expiring link, end-to-end encryption, no software to install
