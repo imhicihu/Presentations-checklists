@@ -1,4 +1,3 @@
-## Links
 
 ### Presentations
 * [Slides](https://slides.com/)
