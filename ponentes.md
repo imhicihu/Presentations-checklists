@@ -1,6 +1,4 @@
-# Ponentes
-
-
+### Ponentes
 * Puntero
 ![puntero](https://bitbucket.org/repo/z88jp6x/images/3494526752-puntero_spanish.png)
 ----------------------
