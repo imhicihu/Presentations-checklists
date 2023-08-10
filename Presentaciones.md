@@ -1,4 +1,4 @@
-## Presentaciones audiovisuales
+### Presentaciones audiovisuales
 * Formatos permitidos (video): 
     - `.avi`
     - `.mp4`
@@ -15,7 +15,7 @@
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora.
 
-## Presentaciones gráficas
+### Presentaciones gráficas
 * Formatos permitidos: 
     - `.ppt`; `.pptx`; (Microsoft PowerPoint®)
     - `.pdf` (Adobe Acrobat®)
@@ -32,7 +32,7 @@
     - `apellido_del_primer_autor.pdf`
     - `apellido_del_primer_autor.mp4`, etc.
 
-## Presentaciones remotas
+### Presentaciones remotas
 * Aquellos autores que hagan su presentación remota sea vía [Skype](https://www.skype.com/) o [Zoom.us](https://zoom.us/) deben agregar el correo electrónico que se le suministrará como contacto. Asimismo, evite realizar su presentación desde las apps sea Android o iOS de Skype o Zoom.us. Como _plan B_, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video.  Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora. Algunos tutoriales al respecto pueden encontrarse aquí:
     - https://www.youtube.com/watch?v=iN3Fctmbr-4
     - https://www.youtube.com/watch?v=Yi2xJRXQiPM
@@ -43,7 +43,6 @@
     - `.wmv`
     - `.mov`
     - `.mkv`
-    
 ### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan visualizar la presentación en la mayoría de los equipos.
   * Apple MacOSX®: 
@@ -105,6 +104,6 @@
 * [Datos históricos del clima de la ciudad de Buenos Aires](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Probabilidad de precipitaciones en la ciudad de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?p=64793)
 
-### Legales ###
+### Legales
 * Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluído el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
