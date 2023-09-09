@@ -15,7 +15,7 @@
           - [SodaPDF Printer](https://www.sodapdf.com/installation-guide/): impresora PDF (sistema operativo: MacOSX)
           - [MacOSX PDF Printer](https://support.apple.com/es-lamr/guide/mac-help/mchlp1531/10.13/mac/10.13): impresora PDF (sistema operativo: MacOSX)
           <BR></BR>
-          ![macosx_built-in_printer](https://bitbucket.org/repo/z88jp6x/images/407128471-mac_pdf_printing.png)
+          ![macosx_built-in_printer](images/407128471-mac_pdf_printing.png)
           - [Alchemy](https://dawnlabs.github.io/alchemy/): impresora PDF (sistema operativo: MacOSX)
      - Graphic converter
           - [XnView MP](https://www.xnview.com/en/xnviewmp/): convertidor de gráficos (varios formatos). Puede ser ejecutado en estos sistemas operativos: Windows | Mac | Linux
