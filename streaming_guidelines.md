@@ -1,24 +1,24 @@
-## Procedures or Good practices guide on streaming connection
+### Procedures or Good practices guide on streaming connection
 
-### Power
+#### Power
 * Foresee a possible power outage: fully charge your notebook's battery / own an [uninterruptible Power Supply (UPS)](https://en.wikipedia.org/wiki/Uninterruptible_power_supply).
 
-### Schedule
+#### Schedule
 * Verify your [date and time](https://www.timeanddate.com/) in your computer is correct
 * Verify your [time-zone](https://www.timeanddate.com/time/map/)
 * Meet and fit your [schedule](https://calendly.com/) _against_ to the [official time](https://time.is/es/) of the event
 
-### Hardware
+#### Hardware
 * Check your [keyboard](https://www.onlinemictest.com/keyboard-test/) status
 * Check your [mouse](https://www.onlinemictest.com/mouse-test/) status
 * Test your [audio card](https://www.onlinemictest.com/sound-test/). If you are in macOSX, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/mac-os-x/). If you are in a Linux machine, you can test your audio [here](https://www.onlinemictest.com/microphone-settings/ubuntu/)
 * Test your [webcam](https://www.onlinemictest.com/webcam-test/)
 * Test your [microphone](https://www.onlinemictest.com/)
 
-### Security
+#### Security
 * Verify that you are out of malware & virus
 
-### Connections
+#### Connections
 * Avoid the use a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) connection for streaming.
 * Avoid connect through a [proxy server](https://en.wikipedia.org/wiki/Proxy_server)
 * If you are behind a proxy server, request to the IT department for a username and password. Write it down and save it
