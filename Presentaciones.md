@@ -93,11 +93,11 @@
 * Deshabilite las notificaciones de su sistema operativo
 * Deshabilite `Compartir carpetas` desde su sistema operativo
 
-### [Identidad visual](https://bitbucket.org/imhicihu/branding/downloads/)
+### [Identidad visual](https://github.com/imhicihu/Branding/)
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
  ![with_transparency.png](images/1534054304-transparency.png)
-* Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.jpg)
- ![without_transparency.png](https://bitbucket.org/repo/z88jp6x/images/3066658849-logo-imhicihu-conicet.png)
+* Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](images/1534054304-transparency.png)
+ ![without_transparency.png](images/3066658849-logo-imhicihu-conicet.png)
 
 ### Misceláneas
 * [Aplicaciones móviles](https://turismo.buenosaires.gob.ar/es/article/aplicaciones-para-m%C3%B3viles) relacionadas con movilidad, turismo, planificación específicos de la ciudad de Buenos Aires.
@@ -105,5 +105,5 @@
 * [Probabilidad de precipitaciones en la ciudad de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?p=64793)
 
 ### Legales
-* Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluído el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
+* Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluido el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
