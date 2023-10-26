@@ -2,9 +2,8 @@
 * usb is not supported, there is no gap to connect it // Apple does this intentionally, to keep the iPad simple and elegantly designed.
 * obsolescencia programada --> the last model, the better
 
-### Software 
-* [Instashare](http://instashareapp.com/): file transfer between devices (iOS, Android, Windows, Mac)
-* [AirDrop](https://www.actualidadiphone.com/airdrop/)
+### Software
+* [LocalSend](https://github.com/localsend/localsend): file transfer between devices (iOS, Android, Windows, Mac)
 
 
 ### Links 
