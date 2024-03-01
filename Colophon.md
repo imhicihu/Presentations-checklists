@@ -1,4 +1,4 @@
-### Technical requirements ##
+### Technical requirements
 
 * Hardware
      - Macbook 13"
@@ -38,8 +38,7 @@
           - [Wetransfer](https://wetransfer.com/): free file sharing up to 2Gb
      - Calendar sharing:
           - [Calendly](https://calendly.com/)
-     - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
-
+	        - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
      
 ### Legal ###
 
