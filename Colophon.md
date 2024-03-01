@@ -32,6 +32,7 @@
           - [World Time zones](https://everytimezone.com/)
           - [Time.io](https://timee.io/)
           - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
+          - [everytimezone](https://everytimezone.com)
      - File sharing:
           - [File Pizza](https://file.pizza/): file sharing over peer-to-peer protocol
           - [Wetransfer](https://wetransfer.com/): free file sharing up to 2Gb
