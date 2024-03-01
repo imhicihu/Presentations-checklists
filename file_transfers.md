@@ -4,5 +4,4 @@
 - ~~[Firefox Send](https://send.firefox.com/): file transfer up to 1Gb, automatically-expiring link, end-to-end encryption, no software to install~~ ([deprecated](https://support.mozilla.org/en-US/kb/what-happened-firefox-send))
 - [Smash](https://fromsmash.com/): file transfer up to 2Gb, files available up to 14 days, password protection, no software to install
 - [Terashare](http://terashare.net/): there's no filesize limit, it uses BitTorrent technology to transfer the file directly from your computer to the receiver's. Needs an instalation of a small client software to make it work, and files are shared via a unique URL
-- [Dropsend](https://www.dropsend.com/): file transfer up to 8Gb, available with 256-bit AES Security, no software to install
-- [Blackhole](https://blackhole.run/): add password to every file send, no link expiration, downloads without registration, blockchain technology
+- [Wetransfer](https://wetransfer.com/): free file sharing up to 2Gb
