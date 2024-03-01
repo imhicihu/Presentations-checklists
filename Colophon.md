@@ -34,6 +34,7 @@
           - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
      - File sharing:
           - [File Pizza](https://file.pizza/): file sharing over peer-to-peer protocol
+          - [Wetransfer](https://wetransfer.com/): free file sharing up to 2Gb
      - Calendar sharing:
           - [Calendly](https://calendly.com/)
      - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
