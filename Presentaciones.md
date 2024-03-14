@@ -107,3 +107,6 @@
 ### Legales
 * Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluido el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
+------
+> [!NOTE]
+> Updated: 01/03/2024
