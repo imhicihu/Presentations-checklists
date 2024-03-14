@@ -43,3 +43,6 @@
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
+-----------
+> [!NOTE]
+> Updated: 01/03/2024
