@@ -17,6 +17,8 @@
           <BR></BR>
           ![macosx_built-in_printer](images/407128471-mac_pdf_printing.png)
           - [Alchemy](https://dawnlabs.github.io/alchemy/): impresora PDF (sistema operativo: MacOSX)
+     - PowerPoint® assistant
+          - [BrightSlide](https://www.brightcarbon.com/brightslide/): edita, pule y automatiza la creación de archivos PowerPoint®
      - Graphic converter
           - [XnView MP](https://www.xnview.com/en/xnviewmp/): convertidor de gráficos (varios formatos). Puede ser ejecutado en estos sistemas operativos: Windows | Mac | Linux
      - Remote control
@@ -45,4 +47,4 @@
 * All trademarks are the property of their respective owners.
 -----------
 > [!NOTE]
-> Updated: 01/03/2024
+> Updated: 16/03/2024
