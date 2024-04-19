@@ -1,6 +1,6 @@
 ### Facts 
 * usb is not supported, there is no gap to connect it // Apple does this intentionally, to keep the iPad simple and elegantly designed.
-* obsolescencia programada --> the last model, the better
+* planned obsolescence --> the last model, the better
 
 ### Software
 * [LocalSend](https://github.com/localsend/localsend): file transfer between devices (iOS, Android, Windows, Mac)
