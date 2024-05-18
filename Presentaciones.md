@@ -1,4 +1,4 @@
-### Presentaciones audiovisuales
+#### Presentaciones audiovisuales
 * Formatos permitidos (video): 
     - `.avi`
     - `.mp4`
@@ -15,7 +15,7 @@
     - [formatee su pen-drive](https://www.ipadizate.es/2018/06/26/pendrive-compatible-mac-windows/)
     - una vez formateado, copie su presentación en el mismo. Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora.
 
-### Presentaciones gráficas
+#### Presentaciones gráficas
 * Formatos permitidos: 
     - `.ppt`; `.pptx`; (Microsoft PowerPoint®)
     - `.pdf` (Adobe Acrobat®)
@@ -32,7 +32,7 @@
     - `apellido_del_primer_autor.pdf`
     - `apellido_del_primer_autor.mp4`, etc.
 
-### Presentaciones remotas
+#### Presentaciones remotas
 * Aquellos autores que hagan su presentación remota sea vía [Skype](https://www.skype.com/) o [Zoom.us](https://zoom.us/) deben agregar el correo electrónico que se le suministrará como contacto. Asimismo, evite realizar su presentación desde las apps sea Android o iOS de Skype o Zoom.us. Como _plan B_, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video.  Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora. Algunos tutoriales al respecto pueden encontrarse aquí:
     - https://www.youtube.com/watch?v=iN3Fctmbr-4
     - https://www.youtube.com/watch?v=Yi2xJRXQiPM
@@ -43,7 +43,7 @@
     - `.wmv`
     - `.mov`
     - `.mkv`
-### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
+#### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan visualizar la presentación en la mayoría de los equipos.
   * Apple MacOSX®: 
     - En [sistemas operativos MacOSX](https://es.wikipedia.org/wiki/MacOS#Versiones), de manera predeterminada no es necesario ningún paso extra. Por lo tanto, si inserta un sonido, una imagen o un vídeo, se incluirá una copia de estos archivos multimedia en el mismo.
@@ -70,43 +70,44 @@
         - https://www.youtube.com/watch?v=Tr-gdf-6gxw
         - https://www.youtube.com/watch?v=TAswiUZV_6c
 
-### Conexión inalámbrica (Wifi)
+#### Conexión inalámbrica (Wifi)
 * Estado actual de la conexión: `regular`
 * Nuestro ancho de banda es limitado
 
-### Horarios
+#### Horarios
 * Para aquellos expositores remotos, la [hora oficial de la Argentina](https://es.wikipedia.org/wiki/Hora_oficial_argentina) es `UTC−03:00`.
 
-### Conexión eléctrica
+#### Conexión eléctrica
 * No suministramos adaptadores ni cargadores de baterías
 * Cargue completamente la batería de su computadora portátil
 
-### Salón de conferencias
+#### Salón de conferencias
 * No se permite fumar
 * No se permite el ingreso de comidas ni bebidas al recinto
 * El evento _no_ puede ser registrado bajo ningún medio electrónico conocido o por conocer, salvo autorización del/los autor(es)
 * Si le es permitido tomar fotos, éstas deben ser `sin flash`. En el caso de registro en video, la institución no proveerá ningún dispositivo, sea de apoyo (léase trípode, etc.) o electrónico (cámara fotográfica, videocámara, etc.) o energético (baterías, etc.)
 
-### Asistentes
+#### Asistentes
 * Cargue la(s) batería(s) de su notebook, netbook o teléfono móvil
 * Deshabilite las notificaciones sonoras de sus dispositivos móviles
 * Deshabilite las notificaciones de su sistema operativo
 * Deshabilite `Compartir carpetas` desde su sistema operativo
 
-### [Identidad visual](https://github.com/imhicihu/Branding/)
+#### [Identidad visual](https://github.com/imhicihu/Branding/)
 * Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
  ![with_transparency.png](images/1534054304-transparency.png)
 * Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](images/1534054304-transparency.png)
  ![without_transparency.png](images/3066658849-logo-imhicihu-conicet.png)
 
-### Misceláneas
+#### Misceláneas
 * [Aplicaciones móviles](https://turismo.buenosaires.gob.ar/es/article/aplicaciones-para-m%C3%B3viles) relacionadas con movilidad, turismo, planificación específicos de la ciudad de Buenos Aires.
 * [Datos históricos del clima de la ciudad de Buenos Aires](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Probabilidad de precipitaciones en la ciudad de Buenos Aires](https://www.estadisticaciudad.gob.ar/eyc/?p=64793)
 
-### Legales
+#### Legales
 * Todas las presentaciones serán eliminadas sea en los disco(s) rígido(s) y en la carpeta de Google Drive de la institución, una vez que haya concluido el evento/coloquio/disertación, más aun, al final de cada una de las sesiones diarias.
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
+
 ------
 > [!NOTE]
 > Updated: 01/03/2024
