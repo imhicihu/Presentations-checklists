@@ -45,6 +45,7 @@
 ### Legal
 
 All trademarks are the property of their respective owners.
+
 -----------
 > [!NOTE]
 > Updated: 18/05/2024
