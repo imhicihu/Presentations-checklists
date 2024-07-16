@@ -43,9 +43,9 @@
 * Disable (temporarily) your firewall during the streaming event
 * Disable (temporarily) file & screen sharing during the streaming event
 * Disable (temporarily) any disk drive encryption schema, _ie._:
-    - FileVault (MacOSX)
-		- Bitlocker (Windows)
-		- LUKS (Linux)
+  - FileVault (MacOSX)
+	- Bitlocker (Windows)
+	- LUKS (Linux)
 * Disable (temporarily) remote connections with other computers
 * Disable (temporarily) any pop-up blocker software
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings)
@@ -59,6 +59,6 @@
 * Isolate your room from surround noise
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions
-* Avoid wear horizontal & vertical lines in your clothing. _Reason:_ Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
+* Avoid wear horizontal & vertical lines in your clothing. _Reason:_ Prevent the "[Moire effect](https://www.youtube.com/watch?v=61NqgAfAt9Y)"
 * Avoid [fluo](https://www.youtube.com/watch?v=Znff6EBqIg8&ab_channel=GoldenPaints) colors
 * Enjoy this experience
