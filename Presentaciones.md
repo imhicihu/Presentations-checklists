@@ -46,7 +46,7 @@
 #### Incrustar sonido, vídeo, imagen en una presentación PowerPoint
 * Puede crear un paquete para la presentación y guardarlo en un CD/DVD, el disco rígido de su computadora o una unidad USB para que otras personas puedan visualizar la presentación en la mayoría de los equipos:
   * Apple MacOSX®: 
-    - En [sistemas operativos MacOSX](https://es.wikipedia.org/wiki/MacOS#Versiones), de manera predeterminada no es necesario ningún paso extra. Por lo tanto, si inserta un sonido, una imagen o un vídeo, se incluirá una copia de estos archivos multimedia en el mismo.
+    - En [sistemas operativos MacOSX](https://es.wikipedia.org/wiki/MacOS#Versiones), de manera predeterminada no es necesario ningún paso extra. Por lo tanto, si inserta un sonido, una imagen o un vídeo, se incluirá una copia de estos archivos multimedia en el mismo
   * Microsoft Windows®:
     - Microsoft Office® online
         - En la versión [web de Microsoft PowerPoint](https://office.live.com/start/PowerPoint.aspx?ui=es%2DES), no admite esta característica de "empaquetado"
