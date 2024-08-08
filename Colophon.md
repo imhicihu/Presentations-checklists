@@ -27,6 +27,7 @@
    - Windows Remote Desktop: incluído dentro del mismo sistema operativo Microsoft Windows
 - Notifications
    - [Muzzle](https://muzzleapp.com/): disable notifications on MacOSX platform
+   - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400): show meetings in your status bar in MacOSX platform
 
 #### Online tools
 - Time management:
