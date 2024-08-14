@@ -8,13 +8,13 @@
 
 # Rationale #
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
 	- A kind of _checklist_ when we create a webinar, meeting or colloquium. This is a common effort between parties: different languages, operating systems, countries or time zones, _et alia_
  ![presentación.jpeg](images/1535152636-4240775973-IMG_0114.jpg)
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up & configuration
 	- Verify our:
@@ -34,10 +34,10 @@
 	- Check our [colophon](Colophon.md)
 	- Check our [Ipad](Ipad_stuff.md) section
 
-### Issues ###
+### Issues
 
 * Check them on [here](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/issues)
 
-### Legal ###
+### Legal
 
-* All trademarks are the property of their respective owners. 
+* All trademarks are the property of their respective owners
