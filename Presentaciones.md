@@ -94,7 +94,7 @@
 * Deshabilite `Compartir carpetas` desde su sistema operativo
 
 #### [Identidad visual](https://github.com/imhicihu/Branding/)
-* Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](https://bitbucket.org/imhicihu/presentations-norms-checklist-proxies/downloads/logo-imhicihu-conicet.png)
+* Logotipo del IMHICIHU en formato `.png` con transparencias, puede descargarse [aquí](/images/logo-imhicihu-conicet.png)
  ![with_transparency.png](images/1534054304-transparency.png)
 * Logotipo del IMHICIHU en formato `.jpg` sin transparencias y fondo blanco, puede descargarse [aquí](images/1534054304-transparency.png)
  ![without_transparency.png](images/3066658849-logo-imhicihu-conicet.png)
