@@ -45,4 +45,3 @@ _Figura 8_
 ![](images/projector/IMG_1479.jpg)
 ![](images/projector/IMG_1480.jpg)
 ![](images/projector/IMG_1481.jpg) 
-![](images/projector/IMG_1477.jpg)
