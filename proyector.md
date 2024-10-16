@@ -39,9 +39,12 @@ _Figura 8_
 * Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador de enchufes 
 ![](images/projector/IMG_1486.jpg)
 ![](images/projector/IMG_1478.jpg)
+![](images/projector/IMG_1495.jpg)
 * Conectar un extremo del cable con su identificación azul
 ![](images/projector/IMG_1485.jpg)
-	 en el primer enchufe del proyector y la notebook:
+	 en el primer enchufe del proyector (identificarlo bajo esta denominación `Computer 1`) 
+![](images/projector/IMG_1494.jpg)
+* y la notebook:
 ![](images/projector/IMG_1479.jpg)
 ![](images/projector/IMG_1480.jpg)
 para quedar de esta manera
