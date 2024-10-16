@@ -26,7 +26,7 @@ _Figura 7_
 ---
 #### Prolongador (_aka_ zapatilla eléctrica)
 ![](images/projector/IMG_1491.png)
-_Figura 7_
+_Figura 8_
 <BR></BR>
 ---
 ### Pasos
