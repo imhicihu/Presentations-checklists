@@ -36,7 +36,7 @@ _Figura 8_
 * Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
 ![](images/projector/IMG_1477.jpg)
 ---
-* Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador de enchufes 
+* Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador 
 ![](images/projector/IMG_1486.jpg)
 ![](images/projector/IMG_1495.jpg)
 * Conectar un extremo del cable con su conector de color azul
@@ -51,6 +51,7 @@ para quedar de esta manera
 * Conectar el prolongador a un toma de corriente eléctrica
 * Encenderlo
 ![](images/projector/IMG_1493.jpg)
+---
 * Encender la notebook
 * Para encender el proyector, observe el menú principal
 ![](images/projector/IMG_1482.jpg)
