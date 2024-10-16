@@ -32,17 +32,17 @@ _Figura 8_
 ### Despliegue
 * Verificar que no falte ningún cable ni dispositivo
 * Desempacar la notebook, el proyector y el prolongador 
-* Disponer la notebook Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal, sin declives y con suficiente espacio entre los mismos; tanto como una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
+* Disponer la notebook Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal, sin declives y con suficiente espacio entre los mismos; en una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
 * Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
 ![](images/projector/IMG_1477.jpg)
 ---
-* Pasemos al proyector: conectar un extremo del cable (negro) de la conexión eléctrica al prolongador de enchufes.
+* Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador de enchufes 
 ![](images/projector/IMG_1486.jpg)
-* y el otro extremo con el proyector
 ![](images/projector/IMG_1478.jpg)
 * Conectar un extremo del cable con su cabezal azul
 ![](images/projector/IMG_1485.jpg)
-	 en el primer enchufe del proyector y la notebook, tal cual como se ve en la siguiente foto
-![](images/projector/IMG_1481.jpg)
-* Situar la computadora Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal con suficiente espacio entre los mismos. 
- ![](images/projector/IMG_1477.jpg)
+	 en el primer enchufe del proyector y la notebook:
+![](images/projector/IMG_1479.jpg)
+![](images/projector/IMG_1480.jpg)
+![](images/projector/IMG_1481.jpg) 
+![](images/projector/IMG_1477.jpg)
