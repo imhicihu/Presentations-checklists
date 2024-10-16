@@ -54,7 +54,7 @@ para quedar de esta manera
 ![](images/projector/IMG_1482.jpg)
 * ubique y presione el siguiente ícono
 ![](images/projector/encendido.png)	 
-* A continuación, en unos momentos estará proyectando su contenido de manera ampliada, magnificada
-
+* A continuación, en unos instantes, estará proyectando su contenido de manera ampliada, magnificada
+![](images/projector/IMG_1483.jpg)
 
 #### Apagado
