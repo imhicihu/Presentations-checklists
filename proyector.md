@@ -1,7 +1,7 @@
 ### Elementos
-#### Sony Vaio
+### Sony Vaio
 ![](images/projector/IMG_1487.jpg)
-_Figura 1_
+Figura 1
 <BR></BR>
 ![](images/projector/IMG_1488.jpg)
 _Figura 2_
@@ -10,7 +10,7 @@ _Figura 2_
 _Figura 3_
 <BR></BR>
 ---
-#### ViewSonic DLP Projector
+### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
 _Figura 4_
 <BR></BR>
@@ -24,7 +24,7 @@ _Figura 6_
 _Figura 7_
 <BR></BR>
 ---
-#### Prolongador (_aka_ zapatilla eléctrica)
+### Prolongador (_aka_ zapatilla eléctrica)
 ![](images/projector/IMG_1491.png)
 _Figura 8_
 <BR></BR>
