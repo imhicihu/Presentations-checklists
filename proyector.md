@@ -48,7 +48,7 @@ _Figura 8_
 ![](images/projector/IMG_1480.jpg)
 para quedar de esta manera
 ![](images/projector/IMG_1481.jpg)
-* Conectar el prolongador a un enchufe de corriente eléctrica
+* Conectar el prolongador a un toma de corriente eléctrica
 * Encenderlo
 ![](images/projector/IMG_1493.jpg)
 * Encender la notebook
@@ -67,4 +67,7 @@ para quedar de esta manera
 ![](images/projector/encendido.png)
 * Aparecerá una confirmación
 * Presionar nuevamente el ícono de encendido. Automáticamente empezará el proceso de apagado
-* Esperar aproximadamente media hora o más para volver a empacarlo en su envoltorio original. Asegurarse que no 
+* Esperar aproximadamente media hora o más para volver a empacarlo en su envoltorio original. Asegurarse que la superficie superior esté fría
+* Apague la notebook
+* Desconecte el prolongador del toma de corriente eléctrica
+* Desconecte 
