@@ -8,6 +8,7 @@ _Figura 2_
 <BR></BR>
 ![](images/projector/IMG_1489.jpg)
 _Figura 3_
+<BR></BR>
 ---
 ### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
@@ -29,9 +30,10 @@ _Figura 8_
 <BR></BR>
 ---
 ### Pasos
-* Desempacar la notebook, el proyector y el prolongador 
 * Verificar que no falte ningún cable ni dispositivo
-* Conecte el cable de la batería de la notebook al prolongador
+* Asegurarse de poseer una superficie plana, con ventilación (computadora y proyector emiten calor)
+* Desempacar la notebook, el proyector y el prolongador 
+* Conectar el cable de la batería de la notebook  prolongador
 * Pasemos al proyector: enchufe el cable (negro) de la conexión eléctrica al prolongador de enchufes.
 ![](images/projector/IMG_1486.jpg)
 * y el otro extremo con el proyector
