@@ -44,4 +44,10 @@ _Figura 8_
 	 en el primer enchufe del proyector y la notebook:
 ![](images/projector/IMG_1479.jpg)
 ![](images/projector/IMG_1480.jpg)
-![](images/projector/IMG_1481.jpg) 
+para quedar de esta manera
+![](images/projector/IMG_1481.jpg)
+* Conectar el prolongador a un enchufe de corriente eléctrica
+* Encenderlo
+* Encender la notebook
+* Para encender el proyector, presione el botón izquierdo
+![](images/projector/IMG_1482.jpg)
