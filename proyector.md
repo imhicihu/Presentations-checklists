@@ -38,9 +38,8 @@ _Figura 8_
 ---
 * Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador de enchufes 
 ![](images/projector/IMG_1486.jpg)
-![](images/projector/IMG_1478.jpg)
 ![](images/projector/IMG_1495.jpg)
-* Conectar un extremo del cable con su identificación azul
+* Conectar un extremo del cable con su conector de color azul
 ![](images/projector/IMG_1485.jpg)
 	 en el primer enchufe del proyector (identificarlo bajo esta denominación `Computer 1`) 
 ![](images/projector/IMG_1494.jpg)
@@ -60,4 +59,12 @@ para quedar de esta manera
 * A continuación, en unos instantes, estará proyectando su contenido de manera ampliada, magnificada
 ![](images/projector/IMG_1483.jpg)
 
-#### Apagado
+#### Apagado 
+* Seguir este orden
+* Localizar el menú del proyector
+![](images/projector/IMG_1482.jpg)
+* Presionar el ícono
+![](images/projector/encendido.png)
+* Aparecerá una confirmación
+* Presionar nuevamente el ícono de encendido. Automáticamente empezará el proceso de apagado
+* Esperar aproximadamente media hora o más para volver a empacarlo en su envoltorio original. Asegurarse que no 
