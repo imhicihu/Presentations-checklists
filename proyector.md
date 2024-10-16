@@ -9,6 +9,7 @@ _Figura 2_
 ![](images/projector/IMG_1489.jpg)
 _Figura 3_
 <BR></BR>
+---
 #### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
 _Figura 4_
@@ -21,8 +22,13 @@ _Figura 6_
 <BR></BR>
 ![](images/projector/IMG_1478.jpg)
 _Figura 7_
+<BR></BR>
+---
 #### Prolongador (_aka_ zapatilla eléctrica)
 ![](images/projector/IMG_1491.png)
+_Figura 7_
+<BR></BR>
+---
 ### Pasos
 * Desempacar la notebook, el proyector y el prolongador 
 * Verificar que no falte ningún cable ni dispositivo
