@@ -1,14 +1,13 @@
 ### Elementos
 ### Sony Vaio
 ![](images/projector/IMG_1487.jpg)
-Figura 1
+_Figura 1_
 <BR></BR>
 ![](images/projector/IMG_1488.jpg)
 _Figura 2_
 <BR></BR>
 ![](images/projector/IMG_1489.jpg)
 _Figura 3_
-<BR></BR>
 ---
 ### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
