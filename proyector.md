@@ -33,7 +33,8 @@ _Figura 8_
 * Verificar que no falte ningún cable ni dispositivo
 * Asegurarse de poseer una superficie plana, sin declives; tanto como una habitación con suficiente ventilación (computadora y proyector emanan calor)
 * Desempacar la notebook, el proyector y el prolongador 
-* Conectar el cable de la batería de la notebook  prolongador
+* Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
+![](images/projector/IMG_1477.jpg)
 * Pasemos al proyector: enchufe el cable (negro) de la conexión eléctrica al prolongador de enchufes.
 ![](images/projector/IMG_1486.jpg)
 * y el otro extremo con el proyector
