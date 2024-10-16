@@ -25,7 +25,7 @@ _Figura 7_
 <BR></BR>
 ---
 ### Prolongador (_aka_ zapatilla eléctrica)
-![](images/projector/IMG_1491.png)
+	![](images/projector/IMG_1491.png)
 _Figura 8_
 <BR></BR>
 ---
@@ -36,7 +36,7 @@ _Figura 8_
 * Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
 ![](images/projector/IMG_1477.jpg)
 ---
-* Pasemos al proyector: enchufe el cable (negro) de la conexión eléctrica al prolongador de enchufes.
+* Pasemos al proyector: conectar un extremo del cable (negro) de la conexión eléctrica al prolongador de enchufes.
 ![](images/projector/IMG_1486.jpg)
 * y el otro extremo con el proyector
 ![](images/projector/IMG_1478.jpg)
