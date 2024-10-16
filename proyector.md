@@ -60,7 +60,7 @@ para quedar de esta manera
 * A continuación, en unos instantes, estará proyectando su contenido de manera ampliada, magnificada
 ![](images/projector/IMG_1483.jpg)
 
-#### Apagado 
+### Apagado 
 * Seguir este orden
 * Localizar el menú del proyector
 ![](images/projector/IMG_1482.jpg)
