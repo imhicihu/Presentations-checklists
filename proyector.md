@@ -53,13 +53,13 @@ para quedar de esta manera
 ![](images/projector/IMG_1493.jpg)
 ---
 * Encender la notebook
-* Para encender el proyector, observe el menú principal
+* Para encender el proyector, observe el menú principal superior:
 ![](images/projector/IMG_1482.jpg)
 * ubique y presione el siguiente ícono
 ![](images/projector/encendido.png)	 
 * A continuación, en unos instantes, estará proyectando su contenido de manera ampliada, magnificada
 ![](images/projector/IMG_1483.jpg)
-
+---
 ### Apagado 
 * Seguir este orden
 * Localizar el menú del proyector
