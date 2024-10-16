@@ -35,6 +35,7 @@ _Figura 8_
 * Disponer la notebook Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal, sin declives y con suficiente espacio entre los mismos; en una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
 * Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
 ![](images/projector/IMG_1477.jpg)
+<BR></BR>
 ---
 * Pasemos al proyector: conectar un extremo del cable (negro) con el proyector y el otro extremo con el prolongador 
 ![](images/projector/IMG_1486.jpg)
@@ -51,6 +52,7 @@ para quedar de esta manera
 * Conectar el prolongador a un toma de corriente eléctrica
 * Encenderlo
 ![](images/projector/IMG_1493.jpg)
+<BR></BR>
 ---
 * Encender la notebook
 * Para encender el proyector, observe el menú principal superior:
@@ -59,16 +61,20 @@ para quedar de esta manera
 ![](images/projector/encendido.png)	 
 * A continuación, en unos instantes, estará proyectando su contenido de manera ampliada, magnificada
 ![](images/projector/IMG_1483.jpg)
+<BR></BR>
 ---
 ### Apagado 
 * Seguir este orden
-* Localizar el menú del proyector
+* Localizar el menú superior del proyector
 ![](images/projector/IMG_1482.jpg)
 * Presionar el ícono
 ![](images/projector/encendido.png)
 * Aparecerá una confirmación
 * Presionar nuevamente el ícono de encendido. Automáticamente empezará el proceso de apagado
 * Esperar aproximadamente media hora o más para volver a empacarlo en su envoltorio original. Asegurarse que la superficie superior esté fría
-* Apague la notebook
-* Desconecte el prolongador del toma de corriente eléctrica
-* Desconecte 
+* Apagar la notebook
+* Desconectar el prolongador del toma de corriente eléctrica
+* Desconectar el cable de la batería de la notebook del prolongador. Guardar en el envoltorio de la notebook
+* Desconectar el cable negro del proyector del prolongador. Guardar en el envoltorio del proyector
+* Desconectar el cable con su conector de color azul de ambos extremos. Guardar en el envoltorio del proyector
+* Verificar que no falte ningún cable ni dispositivo
