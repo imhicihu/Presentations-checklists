@@ -1,5 +1,5 @@
 ### Elementos
-### Sony Vaio
+#### Sony Vaio
 ![](images/projector/IMG_1487.jpg)
 _Figura 1_
 <BR></BR>
@@ -10,7 +10,7 @@ _Figura 2_
 _Figura 3_
 <BR></BR>
 ---
-### ViewSonic DLP Projector
+#### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
 _Figura 4_
 <BR></BR>
@@ -24,7 +24,7 @@ _Figura 6_
 _Figura 7_
 <BR></BR>
 ---
-### Prolongador (_aka_ zapatilla eléctrica)
+#### Prolongador (_aka_ zapatilla eléctrica)
 ![](images/projector/IMG_1491.png)
 _Figura 8_
 <BR></BR>
@@ -48,6 +48,13 @@ para quedar de esta manera
 ![](images/projector/IMG_1481.jpg)
 * Conectar el prolongador a un enchufe de corriente eléctrica
 * Encenderlo
+![](images/projector/IMG_1493.jpg)
 * Encender la notebook
-* Para encender el proyector, presione el botón izquierdo
+* Para encender el proyector, observe el menú principal
 ![](images/projector/IMG_1482.jpg)
+* ubique y presione el siguiente ícono
+![](images/projector/encendido.png)	 
+* A continuación, en unos momentos estará proyectando su contenido de manera ampliada, magnificada
+
+
+#### Apagado
