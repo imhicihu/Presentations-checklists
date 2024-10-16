@@ -8,9 +8,11 @@
 ![](images/projector/IMG_1485.jpg)
 ![](images/projector/IMG_1484.jpg)
 ![](images/projector/IMG_1478.jpg)
+#### Prolongador
+![](images/projector/IMG_1491.png)
 ### Pasos
 * Desempacar la notebook, el proyector y el prolongador de enchufes 
-* Verificar que no falte ningún cable
+* Verificar que no falte ningún cable ni dispositivo
 * Enchufe el cable de la notebook al prolongador de enchufes
 * Pasemos al proyector: enchufe el cable (negro) de la conexión eléctrica al prolongador de enchufes.
 ![](images/projector/IMG_1486.jpg)
