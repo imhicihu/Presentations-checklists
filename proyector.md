@@ -31,8 +31,8 @@ _Figura 8_
 ---
 ### Pasos
 * Verificar que no falte ningún cable ni dispositivo
-* Asegurarse de poseer una superficie plana, sin declives; tanto como una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
 * Desempacar la notebook, el proyector y el prolongador 
+* Disponer la notebook Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal, sin declives y con suficiente espacio entre los mismos; tanto como una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
 * Conectar un extremo del cable de la batería con la notebook y el otro extremo con el prolongador
 ![](images/projector/IMG_1477.jpg)
 ---
