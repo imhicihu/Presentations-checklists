@@ -1,35 +1,41 @@
-### Elementos
+<details>
+<summary>Elementos</summary>
+
 #### Sony Vaio
 ![](images/projector/IMG_1487.jpg)
 _Figura 1_
-<BR></BR>
+
 ![](images/projector/IMG_1488.jpg)
 _Figura 2_
-<BR></BR>
+
 ![](images/projector/IMG_1489.jpg)
 _Figura 3_
-<BR></BR>
+
 ---
 #### ViewSonic DLP Projector
 ![](images/projector/IMG_1486.jpg)
 _Figura 4_
-<BR></BR>
+
 ![](images/projector/IMG_1485.jpg)
 _Figura 5_
-<BR></BR>
+
 ![](images/projector/IMG_1484.jpg)
 _Figura 6_
-<BR></BR>
+
 ![](images/projector/IMG_1478.jpg)
 _Figura 7_
-<BR></BR>
+
 ---
 #### Prolongador (_aka_ zapatilla eléctrica)
 ![](images/projector/IMG_1491.png)
 _Figura 8_
-<BR></BR>
+
 ---
-### Despliegue
+</details>
+
+<details>
+<summary>Despliegue</summary>
+
 * Verificar que no falte ningún cable ni dispositivo
 * Desempacar la notebook, el proyector y el prolongador 
 * Disponer la notebook Sony Vaio, el proyector ViewSonic DLP Projector y el prolongador de enchufes sobre una superficie horizontal, sin declives y con suficiente espacio entre los mismos; en una habitación con suficiente ventilación (computadora y proyector emanan ingentes dosis de calor)
@@ -63,7 +69,11 @@ para quedar de esta manera
 ![](images/projector/IMG_1483.jpg)
 <BR></BR>
 ---
-### Apagado 
+</details>
+
+<details>
+<summary>Apagado</summary>
+
 * Seguir este orden
 * Localizar el menú superior del proyector
 ![](images/projector/IMG_1482.jpg)
@@ -78,3 +88,5 @@ para quedar de esta manera
 * Desconectar el cable negro del proyector del prolongador. Guardar en el envoltorio del proyector
 * Desconectar el cable con su conector de color azul de ambos extremos. Guardar en el envoltorio del proyector
 * Verificar que no falte ningún cable ni dispositivo
+  
+</details>
