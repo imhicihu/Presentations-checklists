@@ -33,7 +33,7 @@
     - `apellido_del_primer_autor.mp4`, etc.
 
 #### Presentaciones remotas
-* Aquellos autores que hagan su presentación remota sea vía [Skype](https://www.skype.com/) o [Zoom.us](https://zoom.us/) deben agregar el correo electrónico que se le suministrará como contacto. Asimismo, evite realizar su presentación desde las apps sea Android o iOS de Skype o Zoom.us. Como _plan B_, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video.  Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora. Algunos tutoriales al respecto pueden encontrarse aquí:
+* Aquellos autores que hagan su presentación remota sea vía [Skype](https://www.skype.com/), [Zoom.us](https://zoom.us/) o [Google Meet](https://meet.google.com/landing?pli=1) deben agregar el correo electrónico que se le suministrará como contacto. Asimismo, evite realizar su presentación desde las apps sea Android o iOS de Skype o Zoom.us. Como _plan B_, sugerimos que envíe -vía [WeTransfer](http://wetransfer.com/)- su presentación registrada en formato de video.  Verifique _nuevamente_ que pueda ser reconocido y leído por el [reproductor de medios VLC](http://www.videolan.org/) en su computadora. Algunos tutoriales al respecto pueden encontrarse aquí:
     - https://www.youtube.com/watch?v=iN3Fctmbr-4
     - https://www.youtube.com/watch?v=Yi2xJRXQiPM
     - https://www.youtube.com/watch?v=oGXYPZlKqiQ
