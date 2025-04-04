@@ -71,7 +71,7 @@
         - https://www.youtube.com/watch?v=TAswiUZV_6c
 
 #### Conexión inalámbrica (Wifi)
-* Estado actual de la conexión: `regular`
+* Estado actual de la conexión: `óptimo`
 * Nuestro ancho de banda es limitado
 
 #### Horarios
