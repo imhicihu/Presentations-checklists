@@ -21,7 +21,7 @@
     - `.pdf` (Adobe Acrobat®)
     - `.doc`; `.docx` (Microsoft Word®)
 * Las presentaciones _no_ deben estar protegidas bajo contraseña
-* Las fuentes en idiomas no-occidentales (léase cirílico, japonesas, chinas, vietnamitas, etc.) deben suministrarse y estar en formato [truetype](https://es.wikipedia.org/wiki/TrueType)
+* Las fuentes ( `.ttf`) en idiomas no-occidentales (léase cirílico, japonesas, chinas, vietnamitas, etc.) deben suministrarse y estar en formato [truetype](https://es.wikipedia.org/wiki/TrueType)
 * Genere un archivo `pdf` de su presentación. Asegúrese que el mismo respeta el formato, colores, tipografías, diseño, etc. dados; y pueda ser reconocido y leído correctamente por un [lector de archivos pdf](https://acrobat.adobe.com/la/es/acrobat/pdf-reader.html)
 * Las presentaciones pueden ser enviadas vía [WeTransfer](https://wetransfer.com/) a la dirección electrónica que se le suministrará o a esta [carpeta de Google Drive](https://drive.google.com/drive/folders/1kWAOoiCdYpwaNmsjWrp0VllHQLkRSBVh?usp=sharing) de la institución
 * Si la presentación fuera entregada [_in situ_](https://es.wikipedia.org/wiki/In_situ) el día de la exposición, siga estos pasos: 
