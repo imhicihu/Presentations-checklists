@@ -41,7 +41,8 @@
   - [Wetransfer](https://wetransfer.com/): free file sharing up to 2Gb
 - Calendar sharing:
   - [Calendly](https://calendly.com/)
-	- [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
+- Planning
+  - [Plantuml](http://www.plantuml.com/plantuml/uml/): Diagram / deployment diagram / critical path
      
 ### Legal
 
@@ -49,4 +50,4 @@ All trademarks are the property of their respective owners
 
 -----------
 > [!NOTE]
-> Updated: 18/05/2024
+> Updated: 18/06/2025
