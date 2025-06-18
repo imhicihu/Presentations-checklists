@@ -28,6 +28,8 @@
 - Notifications
    - [Muzzle](https://muzzleapp.com/): disable notifications on MacOSX platform
    - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400): show meetings in your status bar in MacOSX platform
+- Webcam
+  - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 
 #### Online tools
 - Time management:
