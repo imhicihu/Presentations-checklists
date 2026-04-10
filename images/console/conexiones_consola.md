@@ -13,9 +13,11 @@ Verificar las conexiones con la notebook
 *Verificar los conectores conectados a la consola Behringer
 
 ---
+
 ![presentación.jpeg](/images/console/IMG_1970.jpg)
 * Verificar los conectores conectados a la cabecera de la consola Behringer
 
 ---
-![Encendido/habilitación de sonido](images/console/IMG_2251.jpeg)
+
+![presentación.jpeg](/images/console/IMG_2251.jpg)
 * Habilitación de sonido
