@@ -43,9 +43,9 @@
 * Disable (temporarily) your firewall during the streaming event
 * Disable (temporarily) file & screen sharing during the streaming event
 * Disable (temporarily) any disk drive encryption schema, _ie._:
-  - FileVault (MacOSX)
-	- Bitlocker (Windows)
-	- LUKS (Linux)
+  - [FileVault](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac) (MacOSX)
+  - [Bitlocker](https://support.microsoft.com/en-us/windows/security/encryption/bitlocker-drive-encryption) (Windows)
+  - [LUKS](https://gitlab.com/cryptsetup/cryptsetup/) (Linux)
 * Disable (temporarily) remote connections with other computers
 * Disable (temporarily) any pop-up blocker software
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings)
